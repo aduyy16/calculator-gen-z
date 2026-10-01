@@ -1,6 +1,6 @@
 # Good Mood Calculator
 
->Kalkulator web sederhana dengan tampilan cerah dan palet warna yang bisa diganti. Dibuat menggunakan HTML, CSS, dan JavaScript tanpa framework atau dependensi build.
+> Kalkulator web sederhana dengan tampilan cerah dan palet warna yang bisa diganti. Dibuat menggunakan HTML, CSS, dan JavaScript tanpa framework atau dependensi build.
 
 ## Fitur
 
@@ -16,10 +16,10 @@
 
 1. Clone repositori ini:
 
-	```bash
-	git clone https://github.com/aduyy16/calculator-gen-z.git
-	cd calculator-gen-z
-	```
+   ```bash
+   git clone https://github.com/aduyy16/calculator-gen-z.git
+   cd calculator-gen-z
+   ```
 
 2. Buka `index.html` di browser.
 
@@ -27,15 +27,15 @@ Tidak perlu instalasi package atau proses build. Koneksi internet diperlukan unt
 
 ## Pintasan Keyboard
 
-| Tombol | Aksi |
-| --- | --- |
-| `0`–`9` | Masukkan angka |
-| `+`, `-`, `*`, `/` | Operasi matematika |
-| `.` | Masukkan desimal |
-| `%` | Persen |
-| `Enter` atau `=` | Hitung |
-| `Backspace` | Hapus karakter terakhir |
-| `Escape` | Bersihkan kalkulator |
+| Tombol             | Aksi                    |
+| ------------------ | ----------------------- |
+| `0`–`9`            | Masukkan angka          |
+| `+`, `-`, `*`, `/` | Operasi matematika      |
+| `.`                | Masukkan desimal        |
+| `%`                | Persen                  |
+| `Enter` atau `=`   | Hitung                  |
+| `Backspace`        | Hapus karakter terakhir |
+| `Escape`           | Bersihkan kalkulator    |
 
 ## Publikasikan dengan GitHub Pages
 
